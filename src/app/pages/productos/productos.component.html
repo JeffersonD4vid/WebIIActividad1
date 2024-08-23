@@ -1,0 +1,21 @@
+<div class="container mt-5">
+    <div class="row">
+        <!-- Imagen del Producto -->
+        <div class="col-md-6">
+            <img [src]="imgProducto?.imagen" alt="" class="img-fluid rounded shadow">
+        </div>
+
+        <!-- Información Detallada del Producto -->
+        <div class="col-md-6">
+            <h2  style="color: aqua;">{{imgProducto?.nombre}}</h2>
+            <p class="text-muted">{{imgProducto?.codigo}}</p> 
+            <h4 class="text-success">{{imgProducto?.precio | number:'1.3-5'}} $ USD</h4>
+            <p class="lead mt-4" style="color: #fff;">{{imgProducto?.descripcion}}
+            <button class="btn btn-primary btn-lg mt-4 shadow">Comprar Ahora</button>
+        </div>
+    </div>
+
+    <!-- Sección de Productos Relacionados -->
+
+</div>
+

@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "imagen": "imagenes/iphone15promax.jpg",
+        "nombre": "Iphone 15 pro max",
+        "precio": 1.200,
+        "Código": 1001,
+        "descripcion":"El iPhone 15 Pro Max combina una pantalla grande, cámaras avanzadas y un rendimiento de nivel profesional, ideal para quienes buscan la máxima experiencia en un smartphone."
+    },
+    {
+        "id":2,
+        "imagen": "imagenes/iphone15pro.jpg",
+        "nombre": "Iphone 15 pro",
+        "precio": 999,
+        "Código": 1002,
+        "descripcion":"Equipado con tecnología de punta, el iPhone 15 Pro ofrece un rendimiento rápido y capacidades de cámara de nivel profesional en un formato compacto."
+    },
+    {
+        "id":3,
+        "imagen": "imagenes/iphone15.jpg",
+        "nombre": "Iphone 15",
+        "precio": 960,
+        "Código": 1003,
+        "descripcion":"El iPhone 15 presenta un diseño elegante y funciones avanzadas, ofreciendo una experiencia de usuario fluida con una cámara y rendimiento de alta calidad."
+    },
+    {
+        "id":4,
+        "imagen": "imagenes/iphone14pro.jpg",
+        "nombre": "Iphone 14 pro",
+        "precio": 850,
+        "Código": 1004,
+        "descripcion":"Con una pantalla brillante, cámaras mejoradas y un procesador potente, el iPhone 14 Pro está diseñado para quienes buscan un smartphone premium."
+    },
+    {
+        "id":5,
+        "imagen": "imagenes/iphone14.jpg",
+        "nombre": "Iphone 14",
+        "precio": 780,
+        "Código": 1005,
+        "descripcion":"El iPhone 14 ofrece un equilibrio perfecto entre rendimiento, diseño y duración de batería, ideal para el uso diario."
+    },
+    {
+        "id":6,
+        "imagen": "imagenes/iphone13.jpg",
+        "nombre": "Iphone 13",
+        "precio": 640,
+        "Código": 1007,
+        "descripcion":"El iPhone 13 combina un diseño familiar con mejoras en cámara y rendimiento, brindando una excelente relación calidad-precio."
+    }
+]
